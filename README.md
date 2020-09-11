@@ -5,7 +5,7 @@
 [![GitHub RafaelGoulartB](https://img.shields.io/github/followers/bisaacm1?label=follow&style=social)](https://github.com/bisaacm1)
 
 
-I'm Isaac, Full Stack Developer and open source from Brazil, I have 1+ years experience in Front-end and Back-end.  
+I'm a Full Stack Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Java, Dart, Android, and Flutter.   
 
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.   
 
