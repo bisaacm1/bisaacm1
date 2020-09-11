@@ -1,6 +1,6 @@
 # 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-goulartb/)](https://www.linkedin.com/in/isaac-batista/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-goulartb/)](https://www.linkedin.com/in/isaac-batista-b097521a8/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafagoulartb@gmail.com)](mailto:isaacbmaciel@gmail.com)
 [![GitHub RafaelGoulartB](https://img.shields.io/github/followers/RafaelGoulartB?label=follow&style=social)](https://github.com/bisaacm1)
 
