@@ -17,7 +17,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 ### :sparkles:  Seeking knowledge all the time
 
 - 🔭 I’m currently working at [Foursys](http://www.foursys.com.br/).    
-- 💬 Ask me anything <a href="https://github.com/bisaacm1/bisaacm1/issues/new"><b>here</b></a> or <a href="mailto:isaacbmaciel@gmail.com"><b>email</b></a> me
+- 💬 Ask me anything <a href="https://github.com/bisaacm1/bisaacm1/issues/new"><b>here</b></a>, <a href="mailto:isaacbmaciel@gmail.com"><b>email</b></a>,  <a href="https://www.linkedin.com/in/isaac-batista-b097521a8/"><b>linkedin</b></a> or  <a href="http://api.whatsapp.com/send?phone=5511946437993"><b>whatsapp</b></a> me
 - :computer: Techs: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
@@ -26,10 +26,6 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-
-
-<!--
 
 <details>
   <summary>My Github Stats</summary>
@@ -40,4 +36,3 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
   </p>
 </details>
 
--->
