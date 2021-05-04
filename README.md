@@ -69,9 +69,9 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 </br>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bisaacm1&show_icons=true&theme=dracula" alt="Isaac Batista Github Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bisaacm1&show_icons=true&theme=cobalt" alt="Isaac Batista Github Stats" />
   </p>
    
    <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisaacm1&show_icons=true&theme=dracula" alt="Isaac Batista Github Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisaacm1&show_icons=true&theme=cobalt" alt="Isaac Batista Github Stats" />
   </p>
