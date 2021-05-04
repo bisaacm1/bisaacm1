@@ -13,17 +13,17 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 ### Connect with me:
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" ><a href="https://github.com/bisaacm1/bisaacm1/issues/new"></img>
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" ><a href="https://github.com/bisaacm1/bisaacm1/issues/new/"></img>
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" ><a href="https://www.linkedin.com/in/isaac-batista-b097521a8"></img>
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" ><a href="https://www.linkedin.com/in/isaac-batista-b097521a8/"></img>
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" ><a href="mailto:isaacbmaciel@gmail.com"></img>
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" ><a href="mailto:isaacbmaciel@gmail.com/"></img>
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" ><a href="http://api.whatsapp.com/send?phone=5511946437993"></img>
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" ><a href="http://api.whatsapp.com/send?phone=5511946437993/"></img>
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" ><a href="https://www.instagram.com/b.isaac.m/?hl=pt-br"></img>
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" ><a href="https://www.instagram.com/b.isaac.m/?hl=pt-br/"></img>
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" ><a href="https://www.facebook.com/isaac.batista.9231"></img>
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" ><a href="https://www.facebook.com/isaac.batista.9231/"></img>
 
 
 <br />
