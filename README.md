@@ -14,14 +14,12 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 ### Connect with me:
 
-<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" href="https://github.com/bisaacm1/bisaacm1/issues/new"/>
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/isaac-batista-b097521a8/"/>
-<img align="left" alt="codeSTACKr | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" href="mailto:isaacbmaciel@gmail.com"/>
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/b.isaac.m/?hl=pt-br"/>
-<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" href="https://www.facebook.com/isaac.batista.9231"/>
-<img align="left" alt="codeSTACKr | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" href="http://api.whatsapp.com/send?phone=5511946437993"/>
-
-
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" ><a href="https://github.com/bisaacm1/bisaacm1/issues/new"></img>
+<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" ><a href="https://www.linkedin.com/in/isaac-batista-b097521a8/" ></img>
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"> <a href="mailto:isaacbmaciel@gmail.com"></img>
+<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" ><a href="https://www.instagram.com/b.isaac.m/?hl=pt-br" ></img>
+<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" ><a href="https://www.facebook.com/isaac.batista.9231" ></img>
+<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" href="http://api.whatsapp.com/send?phone=5511946437993"><a href="http://api.whatsapp.com/send?phone=5511946437993" ></img>
 <br />
 
 ### Languages and Tools:
