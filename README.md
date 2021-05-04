@@ -17,9 +17,9 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 <a href="https://www.linkedin.com/in/isaac-batista-b097521a8/"><img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" ></a>
 
-<a href="mailto:isaacbmaciel@gmail.com/"><img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" ></a>
-
 <a href="http://api.whatsapp.com/send?phone=5511946437993/"><img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" ></a>
+
+<a href="mailto:isaacbmaciel@gmail.com/"><img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" ></a>
 
 <a href="https://www.instagram.com/b.isaac.m/?hl=pt-br/"><img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" ></a>
 
