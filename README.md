@@ -1,6 +1,6 @@
 # Hi, I'm Isaac Batista 👋🏼 👨🏻‍💻
 
- <img src="image/backgroundGif.gif">
+ <img src="image/background.png">
 
 <br/>
 
