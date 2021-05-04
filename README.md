@@ -1,6 +1,10 @@
 # Hi, I'm Isaac Batista 👋🏼 👨🏻‍💻
 
- <img src="image/background.png">
+<style type="text/css">
+	img{border-radius: 10px;}
+	</style>
+
+<img  src="image/background.png" />
 
 <br/>
 
