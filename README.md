@@ -1,6 +1,6 @@
 # Hi, I'm Isaac Batista 👋🏼 👨🏻‍💻
 
-<div style=border-radius: 30px; ><img src="image/background.png"></div>
+<img src="image/background.png">
 
 <br/>
 
@@ -26,7 +26,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <a href="https://www.facebook.com/isaac.batista.9231/"><img align="left"  width="22px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" ></a>
 
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
@@ -58,14 +58,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
-</br>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bisaacm1&show_icons=true&theme=cobalt" alt="Isaac Batista Github Stats" />
-  </p>
-   
-   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisaacm1&show_icons=true&theme=cobalt" alt="Isaac Batista Github Stats" />
-  </p>
+<img width="350px" height="250px" alt="Isaac Batista Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisaacm1&show_icons=true&theme=cobalt" /> <img width="500px" height="250px" alt="Isaac Batista Github" src="https://github-readme-stats.vercel.app/api?username=bisaacm1&show_icons=true&theme=cobalt" />
