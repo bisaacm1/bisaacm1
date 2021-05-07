@@ -13,17 +13,17 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 ### Connect with me:
 
-<a href="https://github.com/bisaacm1/bisaacm1/issues/new/"><img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" ></a>
+<a href="https://github.com/bisaacm1/bisaacm1/issues/new/"><img align="left"  width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" ></a>
 
-<a href="https://www.linkedin.com/in/isaac-batista-b097521a8/"><img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" ></a>
+<a href="https://www.linkedin.com/in/isaac-batista-b097521a8/"><img align="left"  width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" ></a>
 
-<a href="http://api.whatsapp.com/send?phone=5511946437993/"><img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" ></a>
+<a href="http://api.whatsapp.com/send?phone=5511946437993/"><img align="left"  width="35px" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" ></a>
 
-<a href="mailto:isaacbmaciel@gmail.com/"><img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" ></a>
+<a href="mailto:isaacbmaciel@gmail.com/"><img align="left"  width="22px" src="https://image.flaticon.com/icons/png/512/281/281769.png" ></a>
 
-<a href="https://www.instagram.com/b.isaac.m/?hl=pt-br/"><img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" ></a>
+<a href="https://www.instagram.com/b.isaac.m/?hl=pt-br/"><img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" ></a>
 
-<a href="https://www.facebook.com/isaac.batista.9231/"><img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" ></a>
+<a href="https://www.facebook.com/isaac.batista.9231/"><img align="left"  width="22px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" ></a>
 
 
 <br />
