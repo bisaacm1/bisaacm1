@@ -6,61 +6,35 @@
 
 I'm a Full Stack developer passionate about web and mobile technologies. I have experience with projects using Java, Dart, Android and Flutter.
 
-<!-- I'm a Full Stack developer passionate about web and mobile technologies. I have experience with projects using Java, JavaScript, Dart, TypeScript, Python, Android, Flutter, React, React Native and Scode.
-Please feel free to clone projects, raise issues and submit PRs if you think something could be better. -->
-
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
-### Connect with me:
+ ##
 
-<a href="https://github.com/bisaacm1/bisaacm1/issues/new/"><img align="left"  width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" ></a>
-
-<a href="https://www.linkedin.com/in/isaac-batista-b097521a8/"><img align="left"  width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" ></a>
-
-<a href="http://api.whatsapp.com/send?phone=5511946437993/"><img align="left"  width="35px" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" ></a>
-
-<a href="mailto:isaacbmaciel@gmail.com/"><img align="left"  width="22px" src="https://image.flaticon.com/icons/png/512/281/281769.png" ></a>
-
-<a href="https://www.instagram.com/b.isaac.m/?hl=pt-br/"><img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" ></a>
-
-<a href="https://www.facebook.com/isaac.batista.9231/"><img align="left"  width="22px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" ></a>
-
-
-<br/>
-<br/>
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_js_icon_130458.png" />
-
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-
-<img align="left" alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png" />
-
-<img align="left" alt="Spring Boot" width="40px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png" />
-
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://cdn.icon-icons.com/icons2/9/PNG/128/sql_racer_gamedatabase_sql_1526.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Bitbucket" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-226075.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br/>
-<br/>
-<br/>
-
-<img width="350px" height="250px" alt="Isaac Batista Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisaacm1&show_icons=true&theme=cobalt" /> <img width="500px" height="250px" alt="Isaac Batista Github" src="https://github-readme-stats.vercel.app/api?username=bisaacm1&show_icons=true&theme=cobalt" />
+ <div>
+  <a href="https://github.com/bisaacm1">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=bisaacm1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisaacm1&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/bisaacm1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/bisaacm1i" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatobisaacm1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/bisaacm1/bisaacm1/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
