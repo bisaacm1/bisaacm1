@@ -24,6 +24,9 @@
 - **Tools**:  
   ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge)
 
+- **Also Exploring**:  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 ---
 
 ## 💼 **Professional Experience**
@@ -59,7 +62,6 @@
 📱 **Phone**: +55 (11) 94643-7993  
 
 ---
-
 
 ### 🐍 **GitHub Contributions**
 
