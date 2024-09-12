@@ -1,9 +1,4 @@
-# 👋 Hey, I'm **Isaac Batista Maciel**
-
-### 🚀 **Back-End Developer** | **Java | Node.js | Microservices**  
-💼 **Currently**: System Development Analyst at **Capgemini**
-
-<img src="image/backgroundImage.jpg" alt="Background Image">
+<img src="image/backgroundPortifolioIsaac.png" alt="Background Image">
 
 ---
 
@@ -31,15 +26,19 @@
 
 ## 💼 **Professional Experience**
 
-### Capgemini  
-**System Development Analyst** | *Dec 2021 - Present*  
-- Built scalable **RESTful APIs** and **BFF (Backend for Frontend)** architectures  
-- Developed microservices using **Spring Boot** and **Java 11+**  
+### Capgemini
+
+**System Development Analyst** | _Dec 2021 - Present_
+
+- Built scalable **RESTful APIs** and **BFF (Backend for Frontend)** architectures
+- Developed microservices using **Spring Boot** and **Java 11+**
 - Continuous integration and deployment with **Azure** and **Bamboo**
 
-### Foursys  
-**Junior Java Developer** | *Jul 2021 - Dec 2021*  
-- Developed **RESTful APIs** for **Banco Digital Next**  
+### Foursys
+
+**Junior Java Developer** | _Jul 2021 - Dec 2021_
+
+- Developed **RESTful APIs** for **Banco Digital Next**
 - Wrote unit tests using **JUnit** and **Mockito**
 
 ---
@@ -59,7 +58,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-batista-maciel)  
 📧 **Email**: isaacbmaciel@gmail.com  
-📱 **Phone**: +55 (11) 94643-7993  
+📱 **Phone**: +55 (11) 94643-7993
 
 ---
 
