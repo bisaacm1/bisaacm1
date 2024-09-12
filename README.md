@@ -3,7 +3,7 @@
 ### 🚀 **Back-End Developer** | **Java | Node.js | Microservices**  
 💼 **Currently**: System Development Analyst at **Capgemini**
 
-<img src="image/background.png" alt="Background Image">
+<img src="image/backgroundImage.jpg" alt="Background Image">
 
 ---
 
