@@ -26,5 +26,5 @@
 ---
 
 <p align="center">
-  <em>"Building solutions, one line of code at a time."</em>
+  <em>"Every bug fixed is a step closer to perfection."</em>
 </p>
