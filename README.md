@@ -1,15 +1,17 @@
 ## 🚀 Recent GitHub Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bisaacm1/bisaacm1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bisaacm1/bisaacm1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bisaacm1/bisaacm1/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bisaacm1/bisaacm1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bisaacm1/bisaacm1/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/bisaacm1/bisaacm1/output/github-snake.svg" />
+  </picture>
+</div>
 
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td align="center">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bisaacm1&theme=dracula" alt="GitHub Details" width="90%"/>
       </td>
       <td>
