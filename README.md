@@ -1,6 +1,10 @@
 ## 🚀 Recent GitHub Activity
 
-![snake gif](https://github.com/bisaacm1/bisaacm1/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+</picture>
 
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bisaacm1&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bisaacm1&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
