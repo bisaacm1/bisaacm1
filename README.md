@@ -1,13 +1,24 @@
 ## 🚀 Recent GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bisaacm1/bisaacm1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bisaacm1/bisaacm1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bisaacm1/bisaacm1/output/github-snake.svg" />
 </picture>
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bisaacm1&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bisaacm1&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bisaacm1&theme=dracula" alt="GitHub Details" width="90%"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisaacm1&layout=compact&langs_count=6&theme=dracula" alt="Top Langs" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
